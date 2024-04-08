@@ -1,0 +1,1 @@
+This is a project dedicated to analyzing the Fisk University student enrollment. Using data visualization tools, I managed to get a general overview of the university's gender, race, in-of-state/out-of-state, and major selection makeup. In addition, I was able to visualize the graduation rate of the school.
